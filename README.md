@@ -9,3 +9,6 @@ this answer to [Peyman](https://stackoverflow.com/users/4910935/peyman) question
 How the example works:
 
 ![](demo.gif)
+
+
+I've created a library from this example: https://pub.dev/packages/animated_theme_switcher
